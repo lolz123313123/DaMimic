@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lolz123313123/Cframe/main/Cframe'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/22kristina/swag/main/admin_fly'))()
 --Settings:
 local ScriptStarted = false
