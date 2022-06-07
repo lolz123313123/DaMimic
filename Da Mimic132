@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/22kristina/swag/main/admin_fly'))()
 --Settings:
 local ScriptStarted = false
 local Keybind = "C" --Set to whatever you want, has to be the name of a KeyCode Enum.
